@@ -19,7 +19,7 @@ Text inputted to grammar, spelling, and style checkers, as well as translation s
 
 **LTeX** is a multilingual grammar, style, and spell checker for VS Code (or VSCodium) that supports more than 20 languages. It uses the open-source [LanguageTool](https://languagetool.org) spell checker on the backend to check against not just dictionary spelling, but thousands of grammar rules and stylistic errors.
 
-[:material-microsoft-visual-studio-code: VS Code Extension](https://languagetool.org){ .md-button .md-button--primary }
+[:material-microsoft-visual-studio-code: VS Code Extension](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex){ .md-button .md-button--primary }
 [:octicons-info-16:](https://valentjn.github.io/ltex/index.html){ .card-link title="Documentation" }
 [:octicons-code-16:](https://github.com/valentjn/vscode-ltex){ .card-link title="Source Code" }
 
