@@ -90,24 +90,24 @@ Proton Mail has internal crash reports that are **not** shared with third partie
 
 === "Web"
 
-From your inbox, select :gear: → **All Settings** → **Account** → **Security and privacy** → **Privacy and data collection**.
+    From your inbox, select :gear: → **All Settings** → **Account** → **Security and privacy** → **Privacy and data collection**.
 
-- [x] Disable **Collect usage dignostics**
-- [x] Disable **Send crash reports**
+    - [x] Disable **Collect usage dignostics**
+    - [x] Disable **Send crash reports**
 
 === "Android"
 
-From your inbox, select :material-menu: → :gear: **Settings**.
+    From your inbox, select :material-menu: → :gear: **Settings**.
 
-- [x] Disable **Anonymous telemetry**
-- [x] DIsable **Anonymous crash reports**
+    - [x] Disable **Anonymous telemetry**
+    - [x] DIsable **Anonymous crash reports**
 
 === "iOS"
 
-From your inbox, select :material-menu: → :gear: **Settings** → select your username → **Privacy and data**.
+    From your inbox, select :material-menu: → :gear: **Settings** → select your username → **Privacy and data**.
 
-- [x] Disable **Anonymous telemetry**
-- [x] DIsable **Anonymous crash reports**
+    - [x] Disable **Anonymous telemetry**
+    - [x] DIsable **Anonymous crash reports**
 
 #### :material-check:{ .pg-green } Custom Domains and Aliases
 
