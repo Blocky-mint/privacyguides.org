@@ -95,14 +95,7 @@ Proton Mail has internal crash reports that are **not** shared with third partie
     - [ ] Disable **Collect usage dignostics**
     - [ ] Disable **Send crash reports**
 
-=== "Android"
-
-    From your inbox, select :material-menu: → :gear: **Settings**.
-
-    - [ ] Disable **Anonymous telemetry**
-    - [ ] Disable **Anonymous crash reports**
-
-=== "iOS"
+=== "Mobile"
 
     From your inbox, select :material-menu: → :gear: **Settings** → select your username.
 
