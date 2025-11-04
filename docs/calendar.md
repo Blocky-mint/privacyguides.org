@@ -70,7 +70,7 @@ Those on the free tier have access to 3 calendars, whereas paid subscribers can 
 
 </div>
 
-Proton Calendar's web client has been [audited](https://drive.proton.me/urls/VGXYGFPE70#txnu5vF12qQU) by Securitum in 2021.
+Proton Calendar's web client has been [audited](https://proton.me/community/open-source#:~:text=Proton%20Calendar,-GitHub) by Securitum in 2021.
 
 ## Criteria
 
